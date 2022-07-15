@@ -1,8 +1,10 @@
-//星驰异步底飘开始
+//麒麟异步底飘开始
+<script>
     (function () {
-        var id = "5348135035182105615-10810";
+        var id = "7645859975449108235-1182";
         document.write('<ins style="display:none!important" id="' + id + '"></ins>');
         (window.adbyunion = window.adbyunion || []).push(id);
     })();
-document.write('<script async src="https://www.yzsbpp.top/o.js"><\/script>');
-//星驰异步底飘结束
+</script>
+document.write('<script async src="https://xpdyqax.cn/o.js"><\/script>');
+//麒麟异步底飘结束
